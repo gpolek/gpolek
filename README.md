@@ -1,12 +1,12 @@
 #### I'm Grzegorz Polek
 
-As an architect I'm interested in distributed systems, cloud-native architecture and CI/CD. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for open source, Cloud computing, DevOps, Innovation and Automation.
+I work as a Lead Platform Architect at [G2A.COM](https://github.com/g2a-com), Global G-Commerce</span>, world's largest marketplace for digital products where the main vision is to become the first shopping destination for gamers and geeks. I am responsible for development of all G2A's internal development platforms aiming to increase developers performance, operations efficiency and production maintainability.
 
-From the business point of view, I am E-commerce and Finance focused and Product & Growth obsessed. I work with agile methologies 
+I'm focusing on my own projects under [ifico](https://github.com/ifico) group and brands.
 
-I'm currently working at [G2A.COM](https://github.com/g2a-com) as a Software Architect.
+As an architect I'm interested in distributed systems, cloud-native architecture and CI/CD. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for open source, Cloud computing, DevOps, Innovation and Automation. I like to work in multidisciplinary teams following DevOps and Agile principles.
 
-I am focusing on my own projects under [modifico](https://github.com/modifico).
+From the business point of view, I am E-commerce & Finance focused and Product & Growth obsessed.
 
 ---
 
@@ -37,6 +37,6 @@ I am focusing on my own projects under [modifico](https://github.com/modifico).
 
 ##### Github
 
-[![DEREK's github stats](https://github-readme-stats.vercel.app/api?username=gpolek&show_icons=true&theme=graywhite)](https://github.com/gpolek)
+[![gpolek's github stats](https://github-readme-stats.vercel.app/api?username=gpolek&show_icons=true&theme=graywhite)](https://github.com/gpolek)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpolek&layout=compact&theme=graywhite)](https://github.com/gpolek)
