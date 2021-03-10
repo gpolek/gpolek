@@ -1,6 +1,6 @@
 #### I'm Grzegorz Polek
 
-I work as a Lead Platform Architect at [G2A.COM](https://github.com/g2a-com), Global G-Commerce</span>, world's largest marketplace for digital products where the main vision is to become the first shopping destination for gamers and geeks. I am responsible for development of all G2A's internal development platforms aiming to increase developers performance, operations efficiency and production maintainability.
+I work as a Lead Platform Architect at [G2A.COM](https://github.com/g2a-com), Global G-Commerce</span>, world's largest marketplace for digital products where the main vision is to become the first shopping destination for gamers and geeks. I am responsible for development of all G2A's internal platforms aiming to increase developers performance, operations efficiency and production maintainability.
 
 I'm focusing on my own projects under [ifico](https://github.com/ifico) group and brands.
 
