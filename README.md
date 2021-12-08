@@ -1,12 +1,12 @@
 #### I'm Grzegorz Polek
 
-I work as a Lead Platform Architect at [G2A.COM](https://github.com/g2a-com), Global G-Commerce</span>, world's largest marketplace for digital products where the main vision is to become the first shopping destination for gamers and geeks. I am responsible for development of all G2A's internal platforms aiming to increase developers performance, operations efficiency and production maintainability.
+I am a software architect focused on cloud-native technologies, distributed systems and migration to the cloud. I helped architect and deploy complex, distributed systems based on container technologies. I am experienced with cloud, cloud-native technologies and distributed systems architecture. I like to work in multidisciplinary teams following DevOps and Agile principles. 
+
+I work as a Chief Technology Officer at [Playbook Engineering](https://playbookengineering.com/), provider of global betting platform for established operators and new entrants who are looking to disrupt the betting industry.
+
+Ex Lead Architect at [G2A](https://g2a.co) and DevOps Engineer at [Grand Parade](https://grandparade.co.uk/)
 
 I'm focusing on my own projects under [ifico](https://github.com/ifico) and other `*ifico` brands.
-
-As an architect I'm interested in distributed systems, cloud-native architecture and CI/CD. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for open source, Cloud computing, DevOps, Innovation and Automation. I like to work in multidisciplinary teams following DevOps and Agile principles.
-
-From the business point of view, I am E-commerce & Finance focused and Product & Growth obsessed.
 
 ---
 
