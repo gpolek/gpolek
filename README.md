@@ -2,7 +2,9 @@
 
 I am a software architect focused on cloud-native technologies, distributed systems and migration to the cloud. I helped architect and deploy complex, distributed systems based on container technologies. I am experienced with cloud, cloud-native technologies and distributed systems architecture. I like to work in multidisciplinary teams following DevOps and Agile principles. 
 
-I work as a Chief Technology Officer at [Playbook Engineering](https://playbookengineering.com/), provider of global betting platform for established operators and new entrants who are looking to disrupt the betting industry.
+I work as a Chief Technology Officer at [symmetrical.ai](https://symmetrical.ai), where we build core infrastructure for fast, flexible and global payroll of the future.
+
+Previouisly Chief Technology Officer at [Playbook Engineering](https://playbookengineering.com/), provider of global betting platform for established operators and new entrants who are looking to disrupt the betting industry.
 
 Ex Lead Architect at [G2A](https://g2a.co) and DevOps Engineer at [Grand Parade](https://grandparade.co.uk/)
 
